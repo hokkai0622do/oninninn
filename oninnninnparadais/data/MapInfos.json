@@ -12,5 +12,5 @@ null,
 {"id":10,"expanded":true,"name":"自宅","order":11,"parentId":9,"scrollX":651,"scrollY":397},
 {"id":11,"expanded":true,"name":"公園　裏山","order":10,"parentId":9,"scrollX":789,"scrollY":885},
 {"id":12,"expanded":false,"name":"公園　男子トイレ","order":9,"parentId":9,"scrollX":789,"scrollY":885},
-{"id":13,"expanded":false,"name":"オープニング","order":13,"parentId":0,"scrollX":659,"scrollY":371}
+{"id":13,"expanded":false,"name":"オープニング","order":13,"parentId":0,"scrollX":784.8,"scrollY":432.59999999999997}
 ]
