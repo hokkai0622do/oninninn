@@ -1,5 +1,6 @@
 [
 null,
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"学校 1階廊下","order":4,"parentId":9,"scrollX":973,"scrollY":942.5},
 {"id":2,"expanded":true,"name":"学校 3階廊下","order":6,"parentId":9,"scrollX":966,"scrollY":616.5},
 {"id":3,"expanded":false,"name":"学校 教室　闇賭博","order":3,"parentId":9,"scrollX":811,"scrollY":761.5},
@@ -11,6 +12,20 @@ null,
 {"id":9,"expanded":true,"name":"テスト","order":1,"parentId":0,"scrollX":819,"scrollY":505.5},
 {"id":10,"expanded":true,"name":"自宅","order":11,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":11,"expanded":true,"name":"公園　裏山","order":10,"parentId":9,"scrollX":832,"scrollY":640},
+=======
+{"id":1,"expanded":true,"name":"学校 1階廊下","order":4,"parentId":9,"scrollX":973,"scrollY":987},
+{"id":2,"expanded":true,"name":"学校 3階廊下","order":6,"parentId":9,"scrollX":973,"scrollY":795},
+{"id":3,"expanded":false,"name":"学校 教室　闇賭博","order":3,"parentId":9,"scrollX":811,"scrollY":762},
+{"id":4,"expanded":true,"name":"学校　校庭","order":7,"parentId":9,"scrollX":973,"scrollY":1702},
+{"id":5,"expanded":true,"name":"公園","order":12,"parentId":9,"scrollX":973,"scrollY":1179},
+{"id":6,"expanded":true,"name":"学校 2階廊下","order":5,"parentId":9,"scrollX":973,"scrollY":1231},
+{"id":7,"expanded":true,"name":"学校 教室　1-A","order":2,"parentId":9,"scrollX":811,"scrollY":787},
+{"id":8,"expanded":false,"name":"市街地","order":8,"parentId":9,"scrollX":973,"scrollY":880},
+{"id":9,"expanded":true,"name":"テスト","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":true,"name":"自宅","order":11,"parentId":9,"scrollX":819,"scrollY":461},
+{"id":11,"expanded":true,"name":"公園　裏山","order":10,"parentId":9,"scrollX":811,"scrollY":787},
+>>>>>>> 31ce7bcd50db640fed77a1c474e768cb690302f9
 {"id":12,"expanded":false,"name":"公園　男子トイレ","order":9,"parentId":9,"scrollX":789,"scrollY":885},
-{"id":13,"expanded":false,"name":"オープニング","order":13,"parentId":0,"scrollX":819,"scrollY":505.5}
+{"id":13,"expanded":false,"name":"オープニング","order":14,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":14,"expanded":false,"name":"MAP014","order":13,"parentId":9,"scrollX":811,"scrollY":507}
 ]
